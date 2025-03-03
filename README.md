@@ -8,7 +8,7 @@ I'm a passionate **Computer Science and Engineering** student, competitive progr
 - 🖥️ Competitive Programmer with **2000+ problems solved** across various platforms.
 - 🏅 **ICPC Dhaka Regional 2024** participant.
 - 🌟 Interested in **Backend Development**, **Machine Learning**, and **API Design**.
-- 🎯 Currently learning **Django REST Framework**.
+
 
 ### 🔹 Tech Stack:
 - **Languages:** C++, Python, JavaScript
@@ -18,12 +18,12 @@ I'm a passionate **Computer Science and Engineering** student, competitive progr
 ### 📫 Connect with Me:
 - LinkedIn: [[linkedin.com/in/ahsanul-anam-saboj](https://bd.linkedin.com/in/ahsanulanam)](#)
 - Email: [your-email@example.com](mailto:your-email@example.com)
-- Portfolio: [Your Portfolio Link](#)
+
 
 ### 🚀 Projects:
 - **Rokto Dorkar**: A blood donation platform using Django.
-- **Library Management System**: Book availability tracking and more.
-- **Sign Language Recognition** *(In Progress)*: AI-based real-time interpretation.
+- **Patient Disease History **: Used to keep save medical history of a patient.
+
 
 ### 📊 GitHub Stats:
 ![Ahsanul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
