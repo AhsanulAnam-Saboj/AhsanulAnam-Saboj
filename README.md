@@ -25,7 +25,6 @@ I'm a passionate **Computer Science and Engineering** student, competitive progr
 - **Patient Disease History **: Used to keep save medical history of a patient.
 
 
-### 📊 GitHub Stats:
-![Ahsanul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
 
 Let's connect and collaborate! 🤝
