@@ -13,16 +13,16 @@ I'm a passionate **Computer Science and Engineering** student, competitive progr
 ### 🔹 Tech Stack:
 - **Languages:** C++, Python, JavaScript
 - **Framework:** Django, Django REST Framework,Flutter
--**Core Conecpt:** OOP, Algorithms, Data Structure
+- **Core Conecpt:** OOP, Algorithms, Data Structure
 
 ### 📫 Connect with Me:
 - LinkedIn: [[linkedin.com/in/ahsanul-anam-saboj](https://bd.linkedin.com/in/ahsanulanam)](#)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](mailto:ahsanulanamsaboj1999@gmail.com)
 
 
 ### 🚀 Projects:
 - **Rokto Dorkar**: A blood donation platform using Django.
-- **Patient Disease History **: Used to keep save medical history of a patient.
+- **Patient Disease History**: Used to keep save medical history of a patient.
 
 
 
