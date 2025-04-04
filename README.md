@@ -17,7 +17,7 @@ I'm a passionate **Computer Science and Engineering** student, competitive progr
 
 ### 📫 Connect with Me:
 - LinkedIn: [[linkedin.com/in/ahsanul-anam-saboj](https://bd.linkedin.com/in/ahsanulanam)](#)
-- Email: [your-ahsanulanamsaboj1999@gmail.com](mailto:ahsanulanamsaboj1999@gmail.com)
+- Email: [ahsanulanamsaboj1999@gmail.com](mailto:ahsanulanamsaboj1999@gmail.com)
 
 
 ### 🚀 Projects:
