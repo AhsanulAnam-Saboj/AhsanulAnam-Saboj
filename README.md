@@ -3,7 +3,7 @@
 I'm a passionate **Computer Science and Engineering** student, competitive programmer, and aspiring backend developer. I love solving algorithmic problems, building projects, and exploring new technologies. 
 
 ### 🔹 About Me:
-- 🎓 **8th-semester CSE student**, graduating in April 2025.
+- 🎓 **8th-semester CSE student**, graduating in May 2025.
 - 🏆 **Vice President** of my university's **CSE Society**.
 - 🖥️ Competitive Programmer with **2000+ problems solved** across various platforms.
 - 🏅 **ICPC Dhaka Regional 2024** participant.
@@ -17,7 +17,7 @@ I'm a passionate **Computer Science and Engineering** student, competitive progr
 
 ### 📫 Connect with Me:
 - LinkedIn: [[linkedin.com/in/ahsanul-anam-saboj](https://bd.linkedin.com/in/ahsanulanam)](#)
-- Email: [your-email@example.com](mailto:ahsanulanamsaboj1999@gmail.com)
+- Email: [your-ahsanulanamsaboj1999@gmail.com](mailto:ahsanulanamsaboj1999@gmail.com)
 
 
 ### 🚀 Projects:
